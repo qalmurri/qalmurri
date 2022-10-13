@@ -21,3 +21,4 @@ if (!empty($_SESSION['soul'])) {
     echo "nothing";
 }
 ```
+<hr>

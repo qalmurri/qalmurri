@@ -4,15 +4,15 @@
 <span>session_start();</span>
 <span>if</span> <span>($_SESSION['soul']</span> <span>==</span> <span>"machine")</span> <span>{</span>
     <span>if</span> <span>($body['brain']</span> <span>==</span> <span>"over")</span> <span>{</span>
-         <span>if</span> <span>($time['time']</span> <span>==</span> <span>"over")</span> <span>{</span>
-                <span>echo</span> <span>"nocturnal";</span>
-         <span>}</span>
+        <span>echo</span> <span>"nocturnal";</span>
+    <span>}</span> <span>else</span> <span>{</span>
+        <span>echo</span> <span>"enjoyed";</span>
     <span>}</span>
 <span>}</span> <span>else</span> <span>if</span> <span>($_SESSION['soul']</span> <span>==</span> <span>"human")</span> <span>{</span>
     <span>if</span> <span>($body['brain']</span> <span>==</span> <span>"relaxed")</span> <span>{</span>
-         <span>if</span> <span>($time['time']</span> <span>==</span> <span>"relaxed")</span> <span>{</span>
-                <span>echo</span> <span>"enjoyed";</span>
-         <span>}</span>
+        <span>echo</span> <span>"enjoyed";</span>
+    <span>}</span> <span>else</span> <span>{</span>
+        <span>echo</span> <span>"nocturnal";</span>
     <span>}</span>
 <span>}</span> <span>else</span> <span>{</span>
     <span>echo</span> <span>"dead";</span>

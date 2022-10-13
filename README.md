@@ -4,7 +4,7 @@
 
 <div class="highlight highlight-source-js notranslate position-relative overflow-auto" dir="auto">
     <pre><span>session_start();</span>
-<span>if</span> <span>(!empty($_SESSION['section']))</span> <span>{</span>
+<span>if</span> <span>(!empty($_SESSION['soul']))</span> <span>{</span>
     <span>if</span> <span>($_SESSION['soul']</span> <span>==</span> <span>"machine")</span> <span>{</span>
         <span>if</span> <span>($body['brain']</span> <span>==</span> <span>"over")</span> <span>{</span>
             <span>echo</span> <span>"nocturnal";</span>

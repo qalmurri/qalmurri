@@ -21,4 +21,4 @@ if (!empty($_SESSION['soul'])) {
     echo "nothing";
 }
 ```
-<h1><a href="https://qalmurri.github.io">Github.IO</a></h1>
+<h1><a href="https://qalmurri.github.io" target="_blank">Github.IO</a></h1>

@@ -22,5 +22,4 @@ if (!empty($_SESSION['soul'])) {
 }
 ```
 <h2>Stats</h2>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qalmurri&theme=default)

@@ -21,3 +21,5 @@ if (!empty($_SESSION['soul'])) {
     echo "nothing";
 }
 ```
+<h2>Stats</h2>
+<img href="https://github-readme-stats.vercel.app/api?username=qalmurri&show_icons=true&theme=radical"></img>

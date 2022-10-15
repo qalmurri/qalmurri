@@ -22,3 +22,5 @@ if (!empty($_SESSION['soul'])) {
 }
 ```
 <h2>Stats</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qalmurri&title_color=ffffff&text_color=c9cacc&hide=html&icon_color=2bbc8a&bg_color=161b22&layout=compact&hide_border=true"/>
+</a>

@@ -22,4 +22,3 @@ if (!empty($_SESSION['soul'])) {
 }
 ```
 <h2>Stats</h2>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qalmurri&theme=default)

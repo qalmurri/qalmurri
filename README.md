@@ -22,4 +22,5 @@ if (!empty($_SESSION['soul'])) {
 }
 ```
 <h2>Stats</h2>
-<img href="https://github-readme-stats.vercel.app/api?username=qalmurri&show_icons=true&theme=radical"></img>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->

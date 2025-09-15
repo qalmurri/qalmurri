@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Qodri Almurri</h1>
-<h3 align="center">Passionate full stack developer from Indonesia</h3>
+<h3 align="center">Passionate amateur full stack developer from Indonesia</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -3,24 +3,23 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://instagram.com/qalmurri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r4rama" height="30" width="40" /></a>
+<!-- instagram -->
+<a href="https://instagram.com/qalmurri" target="blank" rel="noreferrer"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" /></a>
 </p>
 
-<h3 align="center">Dual Pet:</h3>
+<h3 align="center">Pet & Tools:</h3>
 <p align="center">
   <!-- linux -->
-<a href="https://www.linux.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="30" width="40" /></a>
+<a href="https://www.linux.org/" target="blank" rel="noreferrer"><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40" width="40" /></a>
   <!-- win11 -->
-<a href="https://www.microsoft.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="win11" height="30" width="40" /></a>
-</p>
-
-<h3 align="center">Tools:</h3>
-<p align="center">
+<a href="https://www.microsoft.com/" target="blank" rel="noreferrer"><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="win11" height="40" width="40" /></a>
   <!-- Neovim -->
-<a href="https://neovim.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" alt="neovim" height="30" width="40" /></a>
+  <a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" alt="neovim" width="40" height="40"/></a>
+  <!-- vscode -->
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
 </p>
 
-<h3 align="center">Languages:</h3>
+<h3 align="center">Tools - Languages - Database:</h3>
 <p align="center">
   <!-- CSS3 -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
@@ -41,7 +40,7 @@
   <!-- Godot -->
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/></a>
   <!-- SQLite -->
-<a href="https://sqlite.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" height="30" width="40" /></a>
+  <a href="https://sqlite.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/></a>
   <!-- Mongodb -->
-<a href="https://www.mongodb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" height="30" width="40" /></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
 </p>

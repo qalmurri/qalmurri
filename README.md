@@ -40,5 +40,8 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
   <!-- Godot -->
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/></a>
-
+  <!-- SQLite -->
+<a href="https://sqlite.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" height="30" width="40" /></a>
+  <!-- Mongodb -->
+<a href="https://www.mongodb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" height="30" width="40" /></a>
 </p>

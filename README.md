@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm Qodri Almurri</h1>
 <h3 align="center">Passionate amateur full stack developer from Indonesia</h3>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">I use:</h3>
 <p align="center">
 <!-- instagram -->
 <a href="https://instagram.com/qalmurri" target="blank" rel="noreferrer"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" /></a>
-</p>
-
-<h3 align="center">Pet & Tools:</h3>
-<p align="center">
   <!-- linux -->
 <a href="https://www.linux.org/" target="blank" rel="noreferrer"><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40" width="40" /></a>
   <!-- win11 -->
@@ -17,10 +13,6 @@
   <a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" alt="neovim" width="40" height="40"/></a>
   <!-- vscode -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
-</p>
-
-<h3 align="center">Tools - Languages - Database:</h3>
-<p align="center">
   <!-- CSS3 -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
   <!-- HTML -->

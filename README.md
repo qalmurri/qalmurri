@@ -8,11 +8,19 @@
 
 <h3 align="center">Dual Pet:</h3>
 <p align="center">
+  <!-- linux -->
 <a href="https://www.linux.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="30" width="40" /></a>
+  <!-- win11 -->
 <a href="https://www.microsoft.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="win11" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Tools:</h3>
+<p align="center">
+  <!-- Neovim -->
+<a href="https://neovim.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" alt="neovim" height="30" width="40" /></a>
+</p>
+
+<h3 align="center">Languages:</h3>
 <p align="center">
   <!-- CSS3 -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>

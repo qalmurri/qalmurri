@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Qodri Almurri</h1>
-<h3 align="center">Passionate amateur full stack developer from Indonesia</h3>
+<h1 align="center">hi 👋, i'm qodri</h1>
+<h3 align="center">passionate amateur full stack developer from indonesia</h3>
 
-<h3 align="center">I use:</h3>
+<h3 align="center">inventory:</h3>
 <p align="center">
 <!-- instagram -->
 <a href="https://instagram.com/qalmurri" target="blank" rel="noreferrer"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" /></a>

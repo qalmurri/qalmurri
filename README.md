@@ -21,6 +21,8 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
   <!-- linux -->
 <a href="https://www.linux.org/" target="blank" rel="noreferrer"><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40" width="40" /></a>
+  <!-- typescript -->
+<a href="https://www.typescriptlang.org/" target="blank" rel="noreferrer"><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="40" width="40" /></a>
   <!-- Go -->
   <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/></a>
   <!-- Lua -->

@@ -7,6 +7,8 @@
 <a href="https://instagram.com/qalmurri" target="blank" rel="noreferrer"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" /></a>
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <!-- dbeaver -->
+  <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg" alt="dbeaver" width="40" height="40"/></a>
   <!-- arduiono -->
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/></a>
   <!-- CSS3 -->
@@ -33,6 +35,8 @@
 <a href="https://www.raspberrypi.com/" target="blank" rel="noreferrer"><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" height="40" width="40" /></a>
   <!-- Go -->
   <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/></a>
+  <!-- Bruno -->
+  <a href="https://www.usebruno.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/usebruno/bruno/refs/heads/main/assets/images/logo-transparent.png" alt="bruno" width="40" height="40"/></a>
   <!-- Lua -->
   <a href="https://www.lua.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/></a>
   <!-- vscode -->

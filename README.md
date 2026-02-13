@@ -1,6 +1,10 @@
 <h1 align="center">hi 👋, i'm qodri</h1>
 <h3 align="center">passionate amateur full stack developer from indonesia</h3>
 
+<p align="center">
+<img src="https://github.com/qalmurri/qalmurri.github.io/blob/main/sleepy-cat-transparent-sleepy.gif" height="200" width="200" />
+</p>
+
 <h3 align="center">inventory:</h3>
 <p align="center">
 <!-- instagram -->

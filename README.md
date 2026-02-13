@@ -23,8 +23,14 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
   <!-- Node JS -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+    <!-- blogger -->
+  <a href="https://www.blogger.com/" target="_blank" rel="noreferrer"><img src="https://www.blogger.com/img/logo_blogger_40px.png" alt="blogger" width="40" height="40"/></a>
+  <!-- xampp -->
+  <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"><img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="xampp" width="40" height="40"/></a>
   <!-- React -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <!-- postgresql -->
+<a href="https://www.postgresql.org/" target="blank" rel="noreferrer"><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" height="40" width="40" /></a>
   <!-- linux -->
 <a href="https://www.linux.org/" target="blank" rel="noreferrer"><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40" width="40" /></a>
   <!-- typescript -->

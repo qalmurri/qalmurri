@@ -33,6 +33,8 @@
 <a href="https://mariadb.org/" target="blank" rel="noreferrer"><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="mariadb" height="40" width="40" /></a>
   <!-- rasprberry -->
 <a href="https://www.raspberrypi.com/" target="blank" rel="noreferrer"><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" height="40" width="40" /></a>
+    <!-- php -->
+<a href="https://www.php.net/" target="blank" rel="noreferrer"><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="40" width="40" /></a>
   <!-- Go -->
   <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/></a>
   <!-- Bruno -->
@@ -43,6 +45,8 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
   <!-- djangorest -->
   <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorest/djangorest-original.svg" alt="djangorest" width="40" height="40"/></a>
+    <!-- javascript -->
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <!-- Github -->
 <a href="https://github.com/qalmurri/" target="blank" rel="noreferrer"><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="40" width="40" /></a>
   <!-- Tailwind -->

@@ -1,5 +1,5 @@
 <h1 align="center">hi, i'm qodri 👋</h1>
-<h3 align="center">passionate amateur full stack dev from indonesia</h3>
+<h3 align="center">passionate amateur full stack dev from indo</h3>
 
 <p align="center">
 <img src="https://github.com/qalmurri/qalmurri.github.io/blob/main/sleepy-cat-transparent-sleepy.gif" height="200" width="200" />

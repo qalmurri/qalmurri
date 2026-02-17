@@ -74,7 +74,7 @@
 <!-- green hell -->
 <a href="https://greenhell-game.com/" target="blank" rel="noreferrer"><img  src="https://greenhell-game.com/wp-content/uploads/2021/03/cropped-green-hell-512-180x180.jpg" alt="green hell" height="40" width="40" /></a>
   <!-- left 4 dead 2 -->
-<a href="https://www.l4d.com/" target="blank" rel="noreferrer"><img  src="https://www.l4d.com/img/BottomNav/BottomNav_02.jpg" alt="left 4 dead 2" height="40" width="40" style="border-radius: 50px;"/></a>
+<a href="https://www.l4d.com/" target="blank" rel="noreferrer"><img  src="https://www.l4d.com/img/BottomNav/BottomNav_02.jpg" alt="left 4 dead 2" height="40" width=auto style="border-radius: 8px;"/></a>
     <!-- the forest -->
 <a href="https://endnightgames.com/games/the-forest" target="blank" rel="noreferrer"><img  src="https://endnightgames.com/sites/default/files/inline-images/forest-logo.png" alt="left 4 dead 2" height="40" width=auto /></a>
 <!-- son of the forest -->

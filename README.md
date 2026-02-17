@@ -93,4 +93,8 @@
 <a href="https://store.epicgames.com/id/p/dying-light" target="blank" rel="noreferrer"><img  src="https://cdn2.unrealengine.com/egs-dyinglightessentialsedition-techland-editions-ic1-200x100-c7ee33fa6480.png" alt="resident evil 6" height="40" width=auto /></a> 
     <!-- skyrim se  -->
 <a href="https://store.epicgames.com/id/p/dying-light" target="blank" rel="noreferrer"><img  src="https://cdn2.steamgriddb.com/logo_thumb/c7051811e49ab74434a470cf47e1e2ca.png" alt="skyrim se" height="40" width=auto /></a> 
+    <!-- borderlands  -->
+<a href="https://borderlands.2k.com/borderlands/" target="blank" rel="noreferrer"><img  src="https://assets.2k.com/1a6ngf98576c/2k2zrCJnFAOZmVGyl60xjx/a5879bf1287614fb935eddf4ac53ad54/BL_Franchise_Logo_Flat_V2_450x80.png" alt="borderlands" height="40" width=auto /></a> 
+    <!-- borderlands 2  -->
+<a href="https://borderlands.2k.com/borderlands-2/" target="blank" rel="noreferrer"><img  src="https://static.wikia.nocookie.net/logopedia/images/7/7e/Borderlands_2logo.png" alt="borderlands 2" height="40" width=auto /></a> 
 </p>

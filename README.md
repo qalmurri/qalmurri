@@ -59,5 +59,6 @@
   <a href="https://armymen.fandom.com/wiki/Army_Men:_Air_Tactics" target="_blank" rel="noreferrer"><img src="https://gam.onl/user/psx/logos/Army%20Men%20-%20Air%20Attack%20(USA).png" alt="army men" height="40" /></a>
   <a href="https://www.residentevil.com/6/" target="_blank" rel="noreferrer"><img src="https://media.vgm.io/products/47/1974/1974-1607961657.png" alt="resident evil 6" height="40" /></a>
   <a href="https://en.wikipedia.org/wiki/Army_Men_II" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/fr/1/14/Army_Men_II_Logo.png" alt="Army men 2" height="40" /></a>
-  <a href="https://harvestmoon.fandom.com/wiki/Harvest_Moon:_Back_To_Nature" target="_blank" rel="noreferrer"><img src="https://pbs.twimg.com/media/FpBmUJIXsAgG3sI.png" alt="harvest moon back to nature" height="40" /></a> 
+  <a href="https://harvestmoon.fandom.com/wiki/Harvest_Moon:_Back_To_Nature" target="_blank" rel="noreferrer"><img src="https://pbs.twimg.com/media/FpBmUJIXsAgG3sI.png" alt="harvest moon back to nature" height="40" /></a>
+  <a href="https://en.wikipedia.org/wiki/The_Godfather_(2006_video_game)" target="_blank" rel="noreferrer"><img src="https://cdn2.steamgriddb.com/logo/ffee246d00ba636c835b6d4dc22d911a.png" alt="the godfather 1" height="40" /></a> 
 </p>

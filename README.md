@@ -54,8 +54,9 @@
   <a href="https://us.shop.battle.net/en-us/product/diablo" target="_blank" rel="noreferrer"><img src="https://static.wikia.nocookie.net/fictionalcrossover/images/0/0c/Diablo.png" alt="diablo 1" height="40" /></a> 
   <a href="https://en.wikipedia.org/wiki/Desperados:_Wanted_Dead_or_Alive" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Desperados_Logo.png/330px-Desperados_Logo.png" alt="desperados 1" height="40" /></a> 
   <a href="https://store.epicgames.com/id/p/dying-light" target="_blank" rel="noreferrer"><img src="https://cdn2.unrealengine.com/egs-dyinglightessentialsedition-techland-editions-ic1-200x100-c7ee33fa6480.png" alt="dying light" height="40" /></a> 
-  <a href="https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/" target="_blank" rel="noreferrer"><img src="https://cdn2.steamgriddb.com/logo_thumb/c7051811e49ab74434a470cf47e1e2ca.png" alt="skyrim se" height="40" /></a> 
+  <a href="https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/" target="_blank" rel="noreferrer"><img src="https://cdn2.steamgriddb.com/logo_thumb/c7051811e49ab74434a470cf47e1e2ca.png" alt="skyrim se" height="40" /></a>
   <a href="https://borderlands.2k.com/borderlands/" target="_blank" rel="noreferrer"><img src="https://assets.2k.com/1a6ngf98576c/2k2zrCJnFAOZmVGyl60xjx/a5879bf1287614fb935eddf4ac53ad54/BL_Franchise_Logo_Flat_V2_450x80.png" alt="borderlands" height="40" /></a> 
-  <a href="https://armymen.fandom.com/wiki/Army_Men:_Air_Tactics" target="_blank" rel="noreferrer"><img src="https://gam.onl/user/psx/logos/Army%20Men%20-%20Air%20Attack%20(USA).png" alt="army men" height="40" /></a> 
-  <a href="https://www.residentevil.com/6/" target="_blank" rel="noreferrer"><img src="https://media.vgm.io/products/47/1974/1974-1607961657.png" alt="resident evil 6" height="40" /></a> 
+  <a href="https://armymen.fandom.com/wiki/Army_Men:_Air_Tactics" target="_blank" rel="noreferrer"><img src="https://gam.onl/user/psx/logos/Army%20Men%20-%20Air%20Attack%20(USA).png" alt="army men" height="40" /></a>
+  <a href="https://www.residentevil.com/6/" target="_blank" rel="noreferrer"><img src="https://media.vgm.io/products/47/1974/1974-1607961657.png" alt="resident evil 6" height="40" /></a>
+  <a href="https://en.wikipedia.org/wiki/Army_Men_II" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/fr/1/14/Army_Men_II_Logo.png" alt="Army men 2" height="40" /></a> 
 </p>

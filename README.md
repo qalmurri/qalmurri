@@ -46,6 +46,8 @@
   <a href="https://borderlands.2k.com/borderlands-2/" target="_blank" rel="noreferrer"><img src="https://static.wikia.nocookie.net/logopedia/images/7/7e/Borderlands_2logo.png" alt="borderlands 2" height="40" /></a> 
   <a href="https://www.l4d.com/" target="_blank" rel="noreferrer"><img src="https://www.l4d.com/img/BottomNav/BottomNav_02.jpg" alt="left 4 dead 2" height="40"/></a>
   <a href="https://endnightgames.com/games/the-forest" target="_blank" rel="noreferrer"><img src="https://endnightgames.com/sites/default/files/inline-images/forest-logo.png" alt="the forest" height="40" /></a>
+  <a href="https://id.wikipedia.org/wiki/Parasite_Eve_II" target="_blank" rel="noreferrer"><img src="https://assets.altarofgaming.com/wp-content/uploads/2022/01/parasite-eve-2-logo-altar-of-gaming-300x150.png" alt="parasite eve 2" height="40" /></a>
+  <a href="https://en.wikipedia.org/wiki/Hercules_(1997_video_game)" target="_blank" rel="noreferrer"><img src="https://media.vgm.io/products/37/19373/19373-1739052276.png" alt="hercules" height="40" /></a> 
   <a href="https://sonsoftheforest.wiki.gg/" target="_blank" rel="noreferrer"><img src="https://static.wikia.nocookie.net/sonsoftheforest_gamepedia_en/images/e/e6/Site-logo.png" alt="son of the forest" height="40" /></a> 
   <a href="https://us.shop.battle.net/en-us/product/diablo-ii-lord-of-destruction" target="_blank" rel="noreferrer"><img src="https://static.wikia.nocookie.net/logopedia/images/7/78/Diablo_II_Lord_of_Destruction_logo.png" alt="diablo 2 lod" height="40" /></a> 
   <a href="https://en.wikipedia.org/wiki/Desperados_III" target="_blank" rel="noreferrer"><img src="https://www.dlh.net/public/data/Articles/2915/DesperadosIII_logo_texture_black.png" alt="desperados 3" height="40" /></a> 
@@ -62,5 +64,4 @@
   <a href="https://harvestmoon.fandom.com/wiki/Harvest_Moon:_Back_To_Nature" target="_blank" rel="noreferrer"><img src="https://pbs.twimg.com/media/FpBmUJIXsAgG3sI.png" alt="harvest moon back to nature" height="40" /></a>
   <a href="https://en.wikipedia.org/wiki/The_Godfather_(2006_video_game)" target="_blank" rel="noreferrer"><img src="https://cdn2.steamgriddb.com/logo/ffee246d00ba636c835b6d4dc22d911a.png" alt="the godfather 1" height="40" /></a> 
   <a href="https://en.wikipedia.org/wiki/Parasite_Eve_(video_game)" target="_blank" rel="noreferrer"><img src="https://media.vgm.io/products/22/422/422-1657642153.png" alt="parasite eve 1" height="40" /></a>
-  <a href="https://id.wikipedia.org/wiki/Parasite_Eve_II" target="_blank" rel="noreferrer"><img src="https://assets.altarofgaming.com/wp-content/uploads/2022/01/parasite-eve-2-logo-altar-of-gaming-300x150.png" alt="parasite eve 2" height="40" /></a> 
 </p>

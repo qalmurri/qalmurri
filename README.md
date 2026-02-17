@@ -91,8 +91,7 @@
 <a href="https://www.beamteamgames.com/stranded-deep" target="blank" rel="noreferrer"><img  src="https://cdn.prod.website-files.com/5e5f31cf845bab4eedced565/5e7fe21c5836db305fba582d_stranded-deep-logo%402x.png" alt="stranded deep" height="40" width=auto /></a> 
     <!-- resident evil 3: nemesis -->
 <a href="https://residentevil.fandom.com/wiki/Resident_Evil_3:_Nemesis" target="blank" rel="noreferrer"><img  src="https://static.wikia.nocookie.net/residentevil/images/3/32/RE3_Logo_EU.png" alt="resident evil 3: nemesis" height="40" width=auto /></a> 
-    <!-- resident evil 6 -->
-<a href="https://www.residentevil.com/6/" target="blank" rel="noreferrer"><img  src="https://media.vgm.io/products/47/1974/1974-1607961657.png" alt="resident evil 6" height="40" width=auto /></a> 
+
   <!-- diablo 1 -->
 <a href="https://us.shop.battle.net/en-us/product/diablo" target="blank" rel="noreferrer"><img  src="https://static.wikia.nocookie.net/fictionalcrossover/images/0/0c/Diablo.png" alt="diablo 1" height="40" width=auto /></a> 
     <!-- despedados 1  -->
@@ -105,6 +104,7 @@
 <a href="https://borderlands.2k.com/borderlands/" target="blank" rel="noreferrer"><img  src="https://assets.2k.com/1a6ngf98576c/2k2zrCJnFAOZmVGyl60xjx/a5879bf1287614fb935eddf4ac53ad54/BL_Franchise_Logo_Flat_V2_450x80.png" alt="borderlands" height="40" width=auto /></a> 
     <!-- army men air tactics  -->
 <a href="https://armymen.fandom.com/wiki/Army_Men:_Air_Tactics" target="blank" rel="noreferrer"><img  src="https://gam.onl/user/psx/logos/Army%20Men%20-%20Air%20Attack%20(USA).png" alt="army men air tactics" height="40" width=auto /></a> 
-
+    <!-- resident evil 6 -->
+<a href="https://www.residentevil.com/6/" target="blank" rel="noreferrer"><img  src="https://media.vgm.io/products/47/1974/1974-1607961657.png" alt="resident evil 6" height="40" width=auto /></a> 
 
 </p>

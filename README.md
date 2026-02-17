@@ -97,4 +97,11 @@
 <a href="https://borderlands.2k.com/borderlands/" target="blank" rel="noreferrer"><img  src="https://assets.2k.com/1a6ngf98576c/2k2zrCJnFAOZmVGyl60xjx/a5879bf1287614fb935eddf4ac53ad54/BL_Franchise_Logo_Flat_V2_450x80.png" alt="borderlands" height="40" width=auto /></a> 
     <!-- borderlands 2  -->
 <a href="https://borderlands.2k.com/borderlands-2/" target="blank" rel="noreferrer"><img  src="https://static.wikia.nocookie.net/logopedia/images/7/7e/Borderlands_2logo.png" alt="borderlands 2" height="40" width=auto /></a> 
+    <!-- army men air tactics  -->
+<a href="https://armymen.fandom.com/wiki/Army_Men:_Air_Tactics" target="blank" rel="noreferrer"><img  src="https://gam.onl/user/psx/logos/Army%20Men%20-%20Air%20Attack%20(USA).png" alt="army men air tactics" height="40" width=auto /></a> 
+    <!-- despedados 1  -->
+<a href="https://en.wikipedia.org/wiki/Desperados:_Wanted_Dead_or_Alive" target="blank" rel="noreferrer"><img  src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Desperados_Logo.png/330px-Desperados_Logo.png" alt="despedados 1" height="40" width=auto /></a> 
+    <!--  desperados 3 -->
+<a href="https://en.wikipedia.org/wiki/Desperados_III" target="blank" rel="noreferrer"><img  src="https://www.dlh.net/public/data/Articles/2915/DesperadosIII_logo_texture_black.png" alt="desperados 3" height="40" width=auto /></a> 
+  
 </p>

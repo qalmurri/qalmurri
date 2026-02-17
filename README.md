@@ -83,4 +83,14 @@
 <a href="https://us.shop.battle.net/en-us/product/diablo" target="blank" rel="noreferrer"><img  src="https://static.wikia.nocookie.net/fictionalcrossover/images/0/0c/Diablo.png" alt="diablo 1" height="40" width=auto /></a> 
   <!-- diablo 2 lord of destruction -->
 <a href="https://us.shop.battle.net/en-us/product/diablo-ii-lord-of-destruction" target="blank" rel="noreferrer"><img  src="https://static.wikia.nocookie.net/logopedia/images/7/78/Diablo_II_Lord_of_Destruction_logo.png" alt="diablo 2 lord of desctruction" height="40" width=auto /></a> 
+  <!-- stranded deep -->
+<a href="https://www.beamteamgames.com/stranded-deep" target="blank" rel="noreferrer"><img  src="https://cdn.prod.website-files.com/5e5f31cf845bab4eedced565/5e7fe21c5836db305fba582d_stranded-deep-logo%402x.png" alt="stranded deep" height="40" width=auto /></a> 
+    <!-- resident evil 3: nemesis -->
+<a href="https://residentevil.fandom.com/wiki/Resident_Evil_3:_Nemesis" target="blank" rel="noreferrer"><img  src="https://static.wikia.nocookie.net/residentevil/images/3/32/RE3_Logo_EU.png" alt="resident evil 3: nemesis" height="40" width=auto /></a> 
+    <!-- resident evil 6 -->
+<a href="https://www.residentevil.com/6/" target="blank" rel="noreferrer"><img  src="https://media.vgm.io/products/47/1974/1974-1607961657.png" alt="resident evil 6" height="40" width=auto /></a> 
+    <!-- dying light -->
+<a href="https://store.epicgames.com/id/p/dying-light" target="blank" rel="noreferrer"><img  src="https://cdn2.unrealengine.com/egs-dyinglightessentialsedition-techland-editions-ic1-200x100-c7ee33fa6480.png" alt="resident evil 6" height="40" width=auto /></a> 
+    <!-- skyrim se  -->
+<a href="https://store.epicgames.com/id/p/dying-light" target="blank" rel="noreferrer"><img  src="https://cdn2.steamgriddb.com/logo_thumb/c7051811e49ab74434a470cf47e1e2ca.png" alt="skyrim se" height="40" width=auto /></a> 
 </p>

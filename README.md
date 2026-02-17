@@ -2,7 +2,7 @@
 <h3 align="center">passionate amateur full stack dev from indo</h3>
 
 <p align="center">
-  <img href="https://instagram.com/qalmurri" src="https://raw.githubusercontent.com/qalmurri/qalmurri.github.io/main/sleepy-cat-transparent-sleepy.gif" height="200" />
+  <a href="https://instagram.com/qalmurri"><img src="https://raw.githubusercontent.com/qalmurri/qalmurri.github.io/main/sleepy-cat-transparent-sleepy.gif" height="200" /></a>
 </p>
 
 <h1 align="center">inventory:</h1>

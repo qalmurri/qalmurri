@@ -5,7 +5,7 @@
 <img src="https://github.com/qalmurri/qalmurri.github.io/blob/main/sleepy-cat-transparent-sleepy.gif" height="200" width="200" />
 </p>
 
-<h3 align="center">inventory:</h3>
+<h1 align="center">inventory:</h1>
 <p align="center">
 <!-- instagram -->
 <a href="https://instagram.com/qalmurri" target="blank" rel="noreferrer"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" /></a>
@@ -69,7 +69,7 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
 </p>
 
-<h3 align="center">finished:</h3>
+<h1 align="center">finished:</h1>
 <p align="center">
 <!-- green hell -->
 <a href="https://greenhell-game.com/" target="blank" rel="noreferrer"><img  src="https://greenhell-game.com/wp-content/uploads/2021/03/logo-GH-1.png" alt="green hell" height="40" width=auto /></a>

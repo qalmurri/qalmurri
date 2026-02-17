@@ -72,11 +72,15 @@
 <h3 align="center">finished:</h3>
 <p align="center">
 <!-- green hell -->
-<a href="https://greenhell-game.com/" target="blank" rel="noreferrer"><img  src="https://greenhell-game.com/wp-content/uploads/2021/03/cropped-green-hell-512-180x180.jpg" alt="green hell" height="40" width="40" /></a>
+<a href="https://greenhell-game.com/" target="blank" rel="noreferrer"><img  src="https://greenhell-game.com/wp-content/uploads/2021/03/logo-GH-1.png" alt="green hell" height="40" width=auto /></a>
   <!-- left 4 dead 2 -->
-<a href="https://www.l4d.com/" target="blank" rel="noreferrer"><img  src="https://www.l4d.com/img/BottomNav/BottomNav_02.jpg" alt="left 4 dead 2" height="40" width=auto style="border-radius: 8px;"/></a>
+<a href="https://www.l4d.com/" target="blank" rel="noreferrer"><img  src="https://www.l4d.com/img/BottomNav/BottomNav_02.jpg" alt="left 4 dead 2" height="40" width=auto/></a>
     <!-- the forest -->
 <a href="https://endnightgames.com/games/the-forest" target="blank" rel="noreferrer"><img  src="https://endnightgames.com/sites/default/files/inline-images/forest-logo.png" alt="left 4 dead 2" height="40" width=auto /></a>
 <!-- son of the forest -->
-<a href="https://sonsoftheforest.wiki.gg/" target="blank" rel="noreferrer"><img  src="https://sonsoftheforest.wiki.gg/images/Site-favicon.ico" alt="son of the forest" height="40" width=auto /></a> 
+<a href="https://sonsoftheforest.wiki.gg/" target="blank" rel="noreferrer"><img  src="https://static.wikia.nocookie.net/sonsoftheforest_gamepedia_en/images/e/e6/Site-logo.png" alt="son of the forest" height="40" width=auto /></a> 
+  <!-- diablo 1 -->
+<a href="https://us.shop.battle.net/en-us/product/diablo" target="blank" rel="noreferrer"><img  src="https://static.wikia.nocookie.net/fictionalcrossover/images/0/0c/Diablo.png" alt="diablo 1" height="40" width=auto /></a> 
+  <!-- diablo 2 lord of destruction -->
+<a href="https://us.shop.battle.net/en-us/product/diablo-ii-lord-of-destruction" target="blank" rel="noreferrer"><img  src="https://static.wikia.nocookie.net/logopedia/images/7/78/Diablo_II_Lord_of_Destruction_logo.png" alt="diablo 2 lord of desctruction" height="40" width=auto /></a> 
 </p>

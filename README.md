@@ -58,5 +58,6 @@
   <a href="https://borderlands.2k.com/borderlands/" target="_blank" rel="noreferrer"><img src="https://assets.2k.com/1a6ngf98576c/2k2zrCJnFAOZmVGyl60xjx/a5879bf1287614fb935eddf4ac53ad54/BL_Franchise_Logo_Flat_V2_450x80.png" alt="borderlands" height="40" /></a> 
   <a href="https://armymen.fandom.com/wiki/Army_Men:_Air_Tactics" target="_blank" rel="noreferrer"><img src="https://gam.onl/user/psx/logos/Army%20Men%20-%20Air%20Attack%20(USA).png" alt="army men" height="40" /></a>
   <a href="https://www.residentevil.com/6/" target="_blank" rel="noreferrer"><img src="https://media.vgm.io/products/47/1974/1974-1607961657.png" alt="resident evil 6" height="40" /></a>
-  <a href="https://en.wikipedia.org/wiki/Army_Men_II" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/fr/1/14/Army_Men_II_Logo.png" alt="Army men 2" height="40" /></a> 
+  <a href="https://en.wikipedia.org/wiki/Army_Men_II" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/fr/1/14/Army_Men_II_Logo.png" alt="Army men 2" height="40" /></a>
+  <a href="https://harvestmoon.fandom.com/wiki/Harvest_Moon:_Back_To_Nature" target="_blank" rel="noreferrer"><img src="https://pbs.twimg.com/media/FpBmUJIXsAgG3sI.png" alt="harvest moon back to nature" height="40" /></a> 
 </p>

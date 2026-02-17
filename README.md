@@ -61,4 +61,6 @@
   <a href="https://en.wikipedia.org/wiki/Army_Men_II" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/fr/1/14/Army_Men_II_Logo.png" alt="Army men 2" height="40" /></a>
   <a href="https://harvestmoon.fandom.com/wiki/Harvest_Moon:_Back_To_Nature" target="_blank" rel="noreferrer"><img src="https://pbs.twimg.com/media/FpBmUJIXsAgG3sI.png" alt="harvest moon back to nature" height="40" /></a>
   <a href="https://en.wikipedia.org/wiki/The_Godfather_(2006_video_game)" target="_blank" rel="noreferrer"><img src="https://cdn2.steamgriddb.com/logo/ffee246d00ba636c835b6d4dc22d911a.png" alt="the godfather 1" height="40" /></a> 
+  <a href="https://en.wikipedia.org/wiki/Parasite_Eve_(video_game)" target="_blank" rel="noreferrer"><img src="https://media.vgm.io/products/22/422/422-1657642153.png" alt="parasite eve 1" height="40" /></a>
+  <a href="https://id.wikipedia.org/wiki/Parasite_Eve_II" target="_blank" rel="noreferrer"><img src="https://assets.altarofgaming.com/wp-content/uploads/2022/01/parasite-eve-2-logo-altar-of-gaming-300x150.png" alt="parasite eve 2" height="40" /></a> 
 </p>

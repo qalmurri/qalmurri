@@ -71,37 +71,40 @@
 
 <h1 align="center">finished:</h1>
 <p align="center">
+      <!--  swarm assault -->
+<a href="https://swarm-assault.fandom.com/wiki/Swarm_Assault" target="blank" rel="noreferrer"><img  src="https://static.wikia.nocookie.net/swarm-assault/images/e/e6/Site-logo.png" alt="swarm assault" height="40" width=auto /></a> 
 <!-- green hell -->
 <a href="https://greenhell-game.com/" target="blank" rel="noreferrer"><img  src="https://greenhell-game.com/wp-content/uploads/2021/03/logo-GH-1.png" alt="green hell" height="40" width=auto /></a>
+    <!-- borderlands 2  -->
+<a href="https://borderlands.2k.com/borderlands-2/" target="blank" rel="noreferrer"><img  src="https://static.wikia.nocookie.net/logopedia/images/7/7e/Borderlands_2logo.png" alt="borderlands 2" height="40" width=auto /></a> 
   <!-- left 4 dead 2 -->
 <a href="https://www.l4d.com/" target="blank" rel="noreferrer"><img  src="https://www.l4d.com/img/BottomNav/BottomNav_02.jpg" alt="left 4 dead 2" height="40" width=auto/></a>
     <!-- the forest -->
 <a href="https://endnightgames.com/games/the-forest" target="blank" rel="noreferrer"><img  src="https://endnightgames.com/sites/default/files/inline-images/forest-logo.png" alt="left 4 dead 2" height="40" width=auto /></a>
 <!-- son of the forest -->
 <a href="https://sonsoftheforest.wiki.gg/" target="blank" rel="noreferrer"><img  src="https://static.wikia.nocookie.net/sonsoftheforest_gamepedia_en/images/e/e6/Site-logo.png" alt="son of the forest" height="40" width=auto /></a> 
-  <!-- diablo 1 -->
-<a href="https://us.shop.battle.net/en-us/product/diablo" target="blank" rel="noreferrer"><img  src="https://static.wikia.nocookie.net/fictionalcrossover/images/0/0c/Diablo.png" alt="diablo 1" height="40" width=auto /></a> 
   <!-- diablo 2 lord of destruction -->
 <a href="https://us.shop.battle.net/en-us/product/diablo-ii-lord-of-destruction" target="blank" rel="noreferrer"><img  src="https://static.wikia.nocookie.net/logopedia/images/7/78/Diablo_II_Lord_of_Destruction_logo.png" alt="diablo 2 lord of desctruction" height="40" width=auto /></a> 
+    <!--  desperados 3 -->
+<a href="https://en.wikipedia.org/wiki/Desperados_III" target="blank" rel="noreferrer"><img  src="https://www.dlh.net/public/data/Articles/2915/DesperadosIII_logo_texture_black.png" alt="desperados 3" height="40" width=auto /></a> 
   <!-- stranded deep -->
 <a href="https://www.beamteamgames.com/stranded-deep" target="blank" rel="noreferrer"><img  src="https://cdn.prod.website-files.com/5e5f31cf845bab4eedced565/5e7fe21c5836db305fba582d_stranded-deep-logo%402x.png" alt="stranded deep" height="40" width=auto /></a> 
     <!-- resident evil 3: nemesis -->
 <a href="https://residentevil.fandom.com/wiki/Resident_Evil_3:_Nemesis" target="blank" rel="noreferrer"><img  src="https://static.wikia.nocookie.net/residentevil/images/3/32/RE3_Logo_EU.png" alt="resident evil 3: nemesis" height="40" width=auto /></a> 
     <!-- resident evil 6 -->
 <a href="https://www.residentevil.com/6/" target="blank" rel="noreferrer"><img  src="https://media.vgm.io/products/47/1974/1974-1607961657.png" alt="resident evil 6" height="40" width=auto /></a> 
+  <!-- diablo 1 -->
+<a href="https://us.shop.battle.net/en-us/product/diablo" target="blank" rel="noreferrer"><img  src="https://static.wikia.nocookie.net/fictionalcrossover/images/0/0c/Diablo.png" alt="diablo 1" height="40" width=auto /></a> 
+    <!-- despedados 1  -->
+<a href="https://en.wikipedia.org/wiki/Desperados:_Wanted_Dead_or_Alive" target="blank" rel="noreferrer"><img  src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Desperados_Logo.png/330px-Desperados_Logo.png" alt="despedados 1" height="40" width=auto /></a> 
     <!-- dying light -->
 <a href="https://store.epicgames.com/id/p/dying-light" target="blank" rel="noreferrer"><img  src="https://cdn2.unrealengine.com/egs-dyinglightessentialsedition-techland-editions-ic1-200x100-c7ee33fa6480.png" alt="resident evil 6" height="40" width=auto /></a> 
     <!-- skyrim se  -->
 <a href="https://store.epicgames.com/id/p/dying-light" target="blank" rel="noreferrer"><img  src="https://cdn2.steamgriddb.com/logo_thumb/c7051811e49ab74434a470cf47e1e2ca.png" alt="skyrim se" height="40" width=auto /></a> 
     <!-- borderlands  -->
 <a href="https://borderlands.2k.com/borderlands/" target="blank" rel="noreferrer"><img  src="https://assets.2k.com/1a6ngf98576c/2k2zrCJnFAOZmVGyl60xjx/a5879bf1287614fb935eddf4ac53ad54/BL_Franchise_Logo_Flat_V2_450x80.png" alt="borderlands" height="40" width=auto /></a> 
-    <!-- borderlands 2  -->
-<a href="https://borderlands.2k.com/borderlands-2/" target="blank" rel="noreferrer"><img  src="https://static.wikia.nocookie.net/logopedia/images/7/7e/Borderlands_2logo.png" alt="borderlands 2" height="40" width=auto /></a> 
     <!-- army men air tactics  -->
 <a href="https://armymen.fandom.com/wiki/Army_Men:_Air_Tactics" target="blank" rel="noreferrer"><img  src="https://gam.onl/user/psx/logos/Army%20Men%20-%20Air%20Attack%20(USA).png" alt="army men air tactics" height="40" width=auto /></a> 
-    <!-- despedados 1  -->
-<a href="https://en.wikipedia.org/wiki/Desperados:_Wanted_Dead_or_Alive" target="blank" rel="noreferrer"><img  src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Desperados_Logo.png/330px-Desperados_Logo.png" alt="despedados 1" height="40" width=auto /></a> 
-    <!--  desperados 3 -->
-<a href="https://en.wikipedia.org/wiki/Desperados_III" target="blank" rel="noreferrer"><img  src="https://www.dlh.net/public/data/Articles/2915/DesperadosIII_logo_texture_black.png" alt="desperados 3" height="40" width=auto /></a> 
-  
+
+
 </p>

@@ -1,5 +1,8 @@
 <h1 align="center">hi, i'm qodri 👋</h1>
 <h3 align="center">passionate amateur full stack dev from indo</h3>
+![Stats](https://github-readme-stats.vercel.app/api?username=qalmurri&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qalmurri&layout=compact&theme=vision-glow)
+![Visitors](https://komarev.com/ghpvc/?username=qalmurri&color=blueviolet)
 
 <p align="center">
   <a href="https://instagram.com/qalmurri"><img src="https://raw.githubusercontent.com/qalmurri/qalmurri.github.io/main/sleepy-cat-transparent-sleepy.gif" height="200" /></a>

@@ -1,11 +1,16 @@
 <h1 align="center">hi, i'm qodri 👋</h1>
-<h3 align="center">passionate amateur full stack dev from indo.</h3>
+<h3 align="center">
+  passionate amateur full stack dev from indo.
+
+  myconfig: [nvim](https://github.com/qalmurri/nvim); [fastfetch](https://github.com/qalmurri/fastfetch); [tempermonkey](https://github.com/qalmurri/tempermonkey);
+  icreate: [template_blogger](https://github.com/qalmurri/Tree-view-Template-Blogger); [murrikey](https://github.com/qalmurri/murrikey); [kk](https://github.com/qalmurri/kk)
+</h3>
 
 <p align="center">   
   <a href="https://instagram.com/qalmurri"><img src="https://raw.githubusercontent.com/qalmurri/qalmurri.github.io/main/sleepy-cat-transparent-sleepy.gif" height="200" /></a>
 </p>
 
-<a>My config: [nvim](https://github.com/qalmurri/nvim); [fastfetch](https://github.com/qalmurri/fastfetch);</a>
+<a></a>
 <h1 align="center">inventory:</h1>
 <p align="center">
   <a href="https://instagram.com/qalmurri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" /></a>

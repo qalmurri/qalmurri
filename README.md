@@ -1,5 +1,5 @@
 <h1 align="center">hi, i'm qodri 👋</h1>
-<h3 align="center">passionate amateur full stack dev from indo</h3>
+<h3 align="center">passionate amateur full stack dev from indo. My config: [nvim](https://github.com/qalmurri/nvim); [fastfetch](https://github.com/qalmurri/fastfetch); </h3>
 
 
 <p align="center">

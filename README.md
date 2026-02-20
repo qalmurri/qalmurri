@@ -2,8 +2,8 @@
 <h3 align="center">
   passionate amateur full stack dev from indo.
 
-  myconfig: [nvim](https://github.com/qalmurri/nvim); [fastfetch](https://github.com/qalmurri/fastfetch); [tempermonkey](https://github.com/qalmurri/tempermonkey);
-  icreate: [template_blogger](https://github.com/qalmurri/Tree-view-Template-Blogger); [murrikey](https://github.com/qalmurri/murrikey); [kk](https://github.com/qalmurri/kk)
+  myconfig: [nvim](https://github.com/qalmurri/nvim);
+  icreate: [template_blogger](https://github.com/qalmurri/Tree-view-Template-Blogger); [murrikey](https://github.com/qalmurri/murrikey); [kk](https://github.com/qalmurri/kk);
 </h3>
 
 <p align="center">   

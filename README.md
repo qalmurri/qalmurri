@@ -3,7 +3,7 @@
   passionate amateur full stack dev from indo.
 
   myconfig: [nvim](https://github.com/qalmurri/nvim);
-  icreate: [template_blogger](https://github.com/qalmurri/Tree-view-Template-Blogger); [murrikey](https://github.com/qalmurri/murrikey); [kk](https://github.com/qalmurri/kk);
+  icreate: [murrikey](https://github.com/qalmurri/murrikey); [kk](https://github.com/qalmurri/kk);
 </h3>
 
 <p align="center">   

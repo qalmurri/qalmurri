@@ -1,11 +1,11 @@
 <h1 align="center">hi, i'm qodri 👋</h1>
-<h3 align="center">passionate amateur full stack dev from indo. My config: [nvim](https://github.com/qalmurri/nvim); [fastfetch](https://github.com/qalmurri/fastfetch); </h3>
+<h3 align="center">passionate amateur full stack dev from indo.</h3>
 
-
-<p align="center">
+<p align="center">   
   <a href="https://instagram.com/qalmurri"><img src="https://raw.githubusercontent.com/qalmurri/qalmurri.github.io/main/sleepy-cat-transparent-sleepy.gif" height="200" /></a>
 </p>
 
+<a>My config: [nvim](https://github.com/qalmurri/nvim); [fastfetch](https://github.com/qalmurri/fastfetch);</a>
 <h1 align="center">inventory:</h1>
 <p align="center">
   <a href="https://instagram.com/qalmurri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" /></a>

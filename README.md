@@ -1,6 +1,6 @@
 <h1 align="center">hi, i'm qodri 👋</h1>
 <h3 align="center">
-  passionate amateur full stack dev from indo.
+  passionate amateur full stack dev from indo ^_^
 
   myconfig: [nvim](https://github.com/qalmurri/nvim);
   icreate: [murrikey](https://github.com/qalmurri/murrikey); [kk](https://github.com/qalmurri/kk);

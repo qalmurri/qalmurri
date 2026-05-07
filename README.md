@@ -2,7 +2,7 @@
 
   <h1>hi, i'm qodri 👋</h1>
 
-  <h3>passionate amateur full stack dev from indo ^_^</h3>
+  <h3>passionate amateur full stack dev from indo</h3>
 
   <p>
     myconfig: 

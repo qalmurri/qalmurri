@@ -7,9 +7,6 @@
   <p>
     myconfig: 
     <a href="https://github.com/qalmurri/nvim">nvim</a><br>
-    icreate: 
-    <a href="https://github.com/qalmurri/murrikey">murrikey</a> • 
-    <a href="https://github.com/qalmurri/kk">kk</a>
   </p>
 
   <p>
